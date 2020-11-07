@@ -1,4 +1,4 @@
-module binding
+module github.com/yigenshutiao/binding
 
 go 1.13
 
