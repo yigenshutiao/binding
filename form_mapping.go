@@ -12,8 +12,8 @@ import (
 	"strings"
 	"time"
 
-	"binding/internal/bytesconv"
-	"binding/internal/json"
+	"github.com/yigenshutiao/binding/internal/bytesconv"
+	"github.com/yigenshutiao/binding/internal/json"
 )
 
 var errUnknownType = errors.New("unknown type")

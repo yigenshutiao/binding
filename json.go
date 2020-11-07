@@ -10,7 +10,7 @@ import (
 	"io"
 	"net/http"
 
-	"binding/internal/json"
+	"github.com/yigenshutiao/binding/internal/json"
 )
 
 // EnableDecoderUseNumber is used to call the UseNumber method on the JSON
